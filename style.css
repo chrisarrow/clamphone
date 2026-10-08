@@ -1,0 +1,82 @@
+:root {
+  --paper: #efe2c0;
+  --paper-edge: #d9c49a;
+  --ink: #261709;
+  --ink-soft: #36210f;
+  --red-ink: #75140d;
+  --desk: #130d08;
+  --rule: rgba(38, 23, 9, 0.28);
+}
+@media (prefers-color-scheme: dark) {
+  /* Read by lamplight, as the game's chart does: dimmer, warmer paper. */
+  :root {
+    --paper: #cdb88f;
+    --paper-edge: #a98f63;
+    --rule: rgba(38, 23, 9, 0.34);
+  }
+}
+* { box-sizing: border-box; }
+html { background: var(--desk); }
+body {
+  margin: 0;
+  min-height: 100vh;
+  padding: 24px 16px 48px;
+  background: var(--desk);
+  color: var(--ink);
+  font-family: Baskerville, "Libre Baskerville", "Baskerville Old Face", Georgia, serif;
+  font-size: 18px;
+  line-height: 1.55;
+  -webkit-text-size-adjust: 100%;
+}
+.sheet {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 36px 28px 32px;
+  background:
+    radial-gradient(ellipse at 18% 12%, rgba(120, 80, 30, 0.10), transparent 40%),
+    radial-gradient(circle at 84% 78%, rgba(120, 70, 20, 0.12) 0 38px, transparent 40px),
+    radial-gradient(ellipse at 50% 50%, var(--paper) 55%, var(--paper-edge) 100%);
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.4), 0 18px 40px rgba(0, 0, 0, 0.55),
+              inset 0 0 60px rgba(90, 55, 20, 0.35);
+  position: relative;
+}
+.sheet::before {
+  /* neatline */
+  content: "";
+  position: absolute;
+  inset: 12px;
+  border: 1px solid var(--rule);
+  outline: 3px double var(--rule);
+  outline-offset: 3px;
+  pointer-events: none;
+}
+header { text-align: center; margin-bottom: 8px; }
+header img { width: 88px; height: 88px; border-radius: 20px; box-shadow: 0 3px 10px rgba(0,0,0,0.35); }
+h1 { font-size: 30px; font-weight: 700; margin: 14px 0 0; letter-spacing: 0.01em; }
+.tagline { font-style: italic; color: var(--ink-soft); margin: 2px 0 0; }
+h2 {
+  font-size: 21px; font-weight: 700; margin: 28px 0 6px;
+  padding-bottom: 4px; border-bottom: 1px solid var(--rule);
+}
+p, li { color: var(--ink); }
+ul { padding-left: 1.2em; }
+li { margin: 4px 0; }
+a { color: var(--red-ink); }
+.hand { font-family: "Snell Roundhand", "Apple Chancery", cursive; font-size: 1.25em; }
+dl { margin: 0; }
+dt { font-weight: 700; margin-top: 14px; }
+dd { margin: 2px 0 0; }
+nav { text-align: center; margin-top: 30px; font-size: 16px; }
+nav a { margin: 0 10px; }
+footer { text-align: center; color: var(--ink-soft); font-size: 14px; margin-top: 18px; }
+.contact {
+  display: inline-block; margin-top: 4px; padding: 8px 18px; border-radius: 999px;
+  background: var(--red-ink); color: #fde6cc; text-decoration: none; font-weight: 700;
+  box-shadow: inset 0 0 0 2px rgba(0,0,0,0.25), 0 2px 4px rgba(0,0,0,0.3);
+}
+@media (max-width: 420px) {
+  body { font-size: 17px; padding: 16px 16px 40px; }
+  .sheet { padding: 30px 20px 26px; }
+  h1 { font-size: 26px; }
+}
