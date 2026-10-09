@@ -1,0 +1,41 @@
+CLAMPHONE: FOLD TO OPEN
+Fact sheet
+
+Developer: Arrow IT (Chris Arrow, solo developer)
+Release: 23 October 2026, the day Apple's first foldable iPhone reaches customers. Pre-order on the App Store before then.
+Price: $0.99 (US). No ads, no in-app purchases, no subscriptions.
+Platform: iPhone, iOS 27 or later. Made for the foldable; on a phone that doesn't fold, tap to open.
+Privacy: No data collected. No accounts. No network connections.
+App Store: https://apps.apple.com/app/id6820744662
+Press kit: https://chrisarrow.github.io/clamphone/press.html
+Contact: clam@chrisarrow.com
+
+ONE PARAGRAPH
+Apple's first foldable iPhone opens like a clam, so Clamphone turns it into one. A scallop lies on the sea floor, seen from straight above. Unfold the phone and the clam opens with the hinge, creaking all the way. Keep it shut and a pearl grows inside. Open it and you might find one of 21 pearls, or a rubber duck. It is a $0.99 novelty in the tradition of the old iBeer gag, where the phone becomes the object, played completely straight. No ads, no in-app purchases, no data collected.
+
+SHORT
+Your phone opens like a clam, so here is a clam. Keep it shut and a pearl grows. Unfold it gently to see. It might be a pearl. It might be a duck.
+
+FEATURES
+- The hinge is the controller: unfold the phone and the clam opens with it
+- A real recorded creak, and a haptic click for every rib
+- Pearls grow while the clam stays shut; the longer, the rarer (sand under a minute, a pearl after an hour, rare ones after eight hours)
+- 36 finds: 21 kinds of pearl, plus things that should not be in a clam
+- Open it gently: snap it open and it flinches, then hides
+- Arrange finds on the sand; a sea chest rises when it's full
+- A sea-chart journal with a ledger of every find, and achievements
+- Dress-ups (limpet, barnacles, bow tie, coral tiara, top hat), earned rather than bought
+- Light that follows the tilt of the phone
+- Home Screen and Lock Screen widgets, and a Live Activity
+- A shareable specimen card for your best find
+
+FROM THE CLAM
+"A duck. In a clam." (rubber duck)
+"He seems to like it here" (garden gnome)
+"Found it." (TV remote)
+"Just the left one." (one earbud)
+"Hold on." (tiny phone)
+"Someone is going to be very upset" (diamond ring)
+"A quahog pearl. Finally, one from an actual clam." (quahog pearl)
+
+Clamphone is an independent app. It is not made, sponsored or endorsed by Apple. iPhone and App Store are trademarks of Apple Inc.
