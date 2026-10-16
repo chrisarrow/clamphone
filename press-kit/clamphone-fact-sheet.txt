@@ -2,11 +2,11 @@ CLAMPHONE: FOLD TO OPEN
 Fact sheet
 
 Developer: Arrow IT (Chris Arrow, solo developer)
-Release: 23 October 2026, the day Apple's first foldable iPhone reaches customers. Pre-order on the App Store before then.
+Release: 23 October 2026, the day Apple's first foldable iPhone reaches customers. Pre-order now on the App Store.
 Price: $0.99 (US). No ads, no in-app purchases, no subscriptions.
 Platform: iPhone, iOS 27 or later. Made for the foldable; on a phone that doesn't fold, tap to open.
 Privacy: No data collected. No accounts. No network connections.
-App Store: https://apps.apple.com/app/id6820744662
+App Store: https://apps.apple.com/us/app/clamphone-fold-to-open/id6820744662
 Press kit: https://chrisarrow.github.io/clamphone/press.html
 Contact: clam@chrisarrow.com
 
