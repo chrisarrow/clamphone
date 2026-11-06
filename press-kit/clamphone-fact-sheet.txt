@@ -3,9 +3,9 @@ Fact sheet
 
 Developer: Arrow IT (Chris Arrow, solo developer)
 Release: 23 October 2026, the day Apple's first foldable iPhone reaches customers. Out now on the App Store.
-Price: $0.99 (US). No ads, no in-app purchases, no subscriptions.
+Price: Free. One optional one-time unlock, Pearl Diver (extra shells and dress-ups). No ads, no subscriptions.
 Platform: iPhone, iOS 27 or later. Made for the foldable; on a phone that doesn't fold, tap to open.
-Privacy: No data collected. No accounts. No network connections.
+Privacy: No data collected. No accounts. Only Apple's App Store purchase system is used, for the optional unlock.
 App Store: https://apps.apple.com/us/app/clamphone-fold-to-open/id6820744662
 Press kit: https://chrisarrow.github.io/clamphone/press.html
 Contact: clam@chrisarrow.com
@@ -20,7 +20,7 @@ FEATURES
 - The hinge is the controller: unfold the phone and the clam opens with it
 - A real recorded creak, and a haptic click for every rib
 - Pearls grow while the clam stays shut; the longer, the rarer (sand under a minute, a pearl after an hour, rare ones after eight hours)
-- 36 finds: 21 kinds of pearl, plus things that should not be in a clam
+- 39 finds: 21 kinds of pearl, plus things that should not be in a clam
 - Open it gently: snap it open and it flinches, then hides
 - Arrange finds on the sand; a sea chest rises when it's full
 - A sea-chart journal with a ledger of every find, and achievements
