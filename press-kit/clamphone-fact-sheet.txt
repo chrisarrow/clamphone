@@ -3,7 +3,7 @@ Fact sheet
 
 Developer: Arrow IT (Chris Arrow, solo developer)
 Release: 23 October 2026, the day Apple's first foldable iPhone reaches customers. Out now on the App Store.
-Price: Free. One optional one-time unlock, Pearl Diver (extra shells and dress-ups). No ads, no subscriptions.
+Price: Free. One optional one-time unlock, Pearl Diver (a lemon wedge, a captain's cap and six real scallop shells). No ads, no subscriptions. Free since version 1.1; earlier buyers get Pearl Diver included.
 Platform: iPhone, iOS 27 or later. Made for the foldable; on a phone that doesn't fold, tap to open.
 Privacy: No data collected. No accounts. Only Apple's App Store purchase system is used, for the optional unlock.
 App Store: https://apps.apple.com/us/app/clamphone-fold-to-open/id6820744662
@@ -11,20 +11,24 @@ Press kit: https://chrisarrow.github.io/clamphone/press.html
 Contact: clam@chrisarrow.com
 
 ONE PARAGRAPH
-Apple's first foldable iPhone opens like a clam, so Clamphone turns it into one. A scallop lies on the sea floor, seen from straight above. Unfold the phone and the clam opens with the hinge, creaking all the way. Keep it shut and a pearl grows inside. Open it and you might find one of 21 pearls, or a rubber duck. It is a free novelty in the tradition of the old iBeer gag, where the phone becomes the object, played completely straight. No ads and no data collected; one optional unlock adds extra shells to wear.
+Apple's first foldable iPhone opens like a clam, so Clamphone turns it into one. A scallop lies on the sea floor, seen from straight above. Unfold the phone and the clam opens with the hinge, creaking all the way. Keep it shut and a pearl grows inside. Open it and you might find one of 21 pearls, or a rubber duck. Leave it open and something might wander in; close it gently and it's yours. It is a free novelty in the tradition of the old iBeer gag, where the phone becomes the object, played completely straight. No ads and no data collected; one optional unlock adds a wedge of lemon, for the clam that has everything.
 
 SHORT
-Your phone opens like a clam, so here is a clam. Keep it shut and a pearl grows. Unfold it gently to see. It might be a pearl. It might be a duck.
+Your phone opens like a clam, so here is a clam. Keep it shut and a pearl grows. Unfold it gently to see. It might be a pearl. It might be a duck. Leave it open and something might wander in.
 
 FEATURES
 - The hinge is the controller: unfold the phone and the clam opens with it
 - A real recorded creak, and a haptic click for every rib
-- Pearls grow while the clam stays shut; the longer, the rarer (sand under a minute, a pearl after an hour, rare ones after eight hours)
-- 39 finds: 21 kinds of pearl, plus things that should not be in a clam
-- Open it gently: snap it open and it flinches, then hides
-- Arrange finds on the sand; a sea chest rises when it's full
+- Pearls grow while the clam stays shut; the longer, the rarer (open too soon and it's sand; a minute for a pearl, a night for the rare ones)
+- 40 finds: 21 kinds of pearl, plus things that should not be in a clam
+- Visitors wander into the open clam (a sprat, a shrimp, a pufferfish, a lucky coin); close it gently to keep one
+- Passers-by: a crab, a shoal of fish, a drifting jellyfish
+- String pearls on silk; sixteen make a necklace that lies on the sand
+- Peek through the crack: the light inside shows how it's doing
+- Open it gently: rush it and it flinches, then swims off until you close your phone
+- Finds land on the sand; a sea chest rises when it's full
 - A sea-chart journal with a ledger of every find, and achievements
-- Dress-ups (limpet, barnacles, bow tie, coral tiara, top hat), earned by playing, plus an optional Pearl Diver unlock
+- Dress-ups (limpet, barnacles, bow tie, coral tiara, top hat), earned by playing, plus an optional Pearl Diver unlock led by a wedge of lemon
 - Light that follows the tilt of the phone
 - Home Screen and Lock Screen widgets, and a Live Activity
 - A shareable specimen card, or a five-second clip with sound
@@ -37,5 +41,6 @@ FROM THE CLAM
 "Hold on." (tiny phone)
 "Someone is going to be very upset" (diamond ring)
 "A quahog pearl. Finally, one from an actual clam." (quahog pearl)
+"It stayed calm. So did you." (pufferfish, caught gently)
 
 Clamphone is an independent app. It is not made, sponsored or endorsed by Apple. iPhone and App Store are trademarks of Apple Inc.
