@@ -29,7 +29,6 @@ FEATURES
 - Finds land on the sand; a sea chest rises when it's full
 - A sea-chart journal with a ledger of every find, and achievements
 - Dress-ups (limpet, barnacles, bow tie, coral tiara, top hat), earned by playing, plus an optional Pearl Diver unlock led by a wedge of lemon
-- Light that follows the tilt of the phone
 - Home Screen and Lock Screen widgets, and a Live Activity
 - A shareable specimen card, or a five-second clip with sound
 
