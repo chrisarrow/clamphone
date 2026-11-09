@@ -18,7 +18,7 @@ Your phone opens like a clam, so here is a clam. Keep it shut and a pearl grows.
 
 FEATURES
 - The hinge is the controller: unfold the phone and the clam opens with it
-- A real recorded creak, and a haptic click for every rib
+- A real recorded creak
 - Pearls grow while the clam stays shut; the longer, the rarer (open too soon and it's sand; a minute for a pearl, a night for the rare ones)
 - 40 finds: 21 kinds of pearl, plus things that should not be in a clam
 - Visitors wander into the open clam (a sprat, a shrimp, a pufferfish, a lucky coin); close it gently to keep one
